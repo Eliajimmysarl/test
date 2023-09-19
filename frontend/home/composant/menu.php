@@ -79,13 +79,13 @@
 					</a>
 					<ul >
 						<li>
-							<a href="?page=ajouter_agent">
+							<a href="?page=ajouter">
 								<span class="title">Ajouter</span>
 							</a>
 						</li>
 
 						<li>
-							<a href="?page=recuperer_agents">
+							<a href="?page=recuperer_">
 								<span class="title">Recuperes tout</span>
 							</a>
 						</li>

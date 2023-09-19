@@ -69,6 +69,65 @@
 					</ul>
 				</li>
 
+
+				
+											
+				<li class="has-sub">
+					<a href="forms-main.html">
+					<i class="fa fa-users"></i>
+						<span class="title">Model</span>
+					</a>
+					<ul >
+						<li>
+							<a href="?page=ajouter_agent">
+								<span class="title">Ajouter</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="?page=recuperer_agents">
+								<span class="title">Recuperes tout</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="?page=recuperer_agents">
+								<span class="title">Recupere un</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="?page=recuperer_agents">
+								<span class="title">Supprimer un</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="?page=recuperer_agents">
+								<span class="title">Modifier un</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="?page=recuperer_agents">
+								<span class="title">importer Photo</span>
+							</a>
+						</li>
+						<li>
+							<a href="?page=recuperer_agents">
+								<span class="title">Convertir PDF</span>
+							</a>
+						</li>
+
+						<li>
+							<a  href="?page=importer_agents">
+								<span class="title">Importer_excel</span>
+							</a>
+						</li>
+						
+					</ul>
+				</li>
+
 									
 				<li>
 						<a href="/smaas/kill.php">

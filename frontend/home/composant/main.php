@@ -31,11 +31,6 @@
                     require_once('composant/agent/importer_photo/api/post_image.php'); 
                 }
 
-
-
-
-
-
         }
     else if (isSet($_GET['page']))
         {

@@ -75,7 +75,7 @@
 				<li class="has-sub">
 					<a href="forms-main.html">
 					<i class="fa fa-users"></i>
-						<span class="title">Model</span>
+						<span class="title">Modele</span>
 					</a>
 					<ul >
 						<li>
